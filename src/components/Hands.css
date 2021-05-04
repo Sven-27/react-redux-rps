@@ -1,12 +1,11 @@
 .hands{
- background: green;
  display: flex;
  flex-direction: column;
  justify-content: center;
  align-items: center;
  height: 100%;
-  position: relative;
-  width: 100%;
+ position: relative;
+ width: 100%;
 }
 
 .hands__triangle{
@@ -17,7 +16,6 @@
   height: 300px;
   margin-top: -150px;
   margin-left: -150px;
-  z-index: 0;
 }
 
 .hands__top{
